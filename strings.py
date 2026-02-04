@@ -10,4 +10,4 @@ print(greetings.upper())
 
 #strings concatenation --joining strings
 
-print(greetings + course)
+print(greetings +" " +course)
